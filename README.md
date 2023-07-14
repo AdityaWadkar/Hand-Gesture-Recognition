@@ -32,7 +32,7 @@ When people talk, they gesture. Gesture is a fundamental component of language t
 
 - **numpy :** 1.22.2
 
-- **pyinputdirect :** Any latest version
+- **pyDirectInput :** Any latest version
 
 ## Author
 
